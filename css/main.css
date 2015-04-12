@@ -3,6 +3,8 @@ body {
   height: 100%;
   position: fixed;
   margin: 0 auto;
+  top: 40%;
+  text-align: center;
 }
 h1 {
   font-size: 10em;
